@@ -1,5 +1,4 @@
 #box1{
-	width: 75px;
 	height: 75px;
 	padding: 0px;
 	background-color: #f5f5dc;
@@ -7,14 +6,12 @@
 
 
 #box2{
-	width: 75px;
 	height: 75px;
 	padding: 0px;
 	background-color: #050002;
 }
 
-#box3{
-	width: 100px;
-	height: 100px;
-	background-color: green;
+#border{
+	border-style: ridge;
+	border-color: red;
 }

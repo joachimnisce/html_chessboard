@@ -1,0 +1,33 @@
+#border{
+	border-style: ridge;
+	border-color: red;
+}
+
+#box1{
+	height: 82px;
+	padding: 0px;
+	background-color: #f5f5dc;
+}
+
+
+#box2{
+	height: 82px;
+	padding: 0px;
+	background-color: #050002;
+}
+
+.roboto-nav{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20px;
+}
+
+ .nav > li > a {
+    padding: 45px 40px !important;
+    margin-right: 0 !important;
+    color: black;
+    text-align:left !important;
+}
+
+.navbar-brand{
+	height: 110px !important;
+}
